@@ -1,0 +1,5 @@
+Tudo é Objeto
+
+- Atributos: São propriedades de um objeto. (Ex.: tamanho, cor, peso, etc...)
+
+- Métodos: São as funcionalidades de um objeto. (Ex.: Celular > faz ligações, conecta na internet, tira fotos, etc...)
